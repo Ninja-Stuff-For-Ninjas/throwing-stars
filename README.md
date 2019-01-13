@@ -1,3 +1,3 @@
-# throwing-stars
+# throwing stars
 
 are cool
